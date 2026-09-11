@@ -21,10 +21,10 @@
 
 ## Сборка
 
-\`\`\`bash
+```bash
 mkdir build
 cd build
 cmake ..
 cmake --build .
 ./hello_world
-\`\`\`
+```
